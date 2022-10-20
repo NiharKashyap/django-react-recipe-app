@@ -1,0 +1,8 @@
+This will guide in deployment
+	https://dev.to/koladev/build-and-deploy-your-django-react-app-authentication-docker-aws-lightsail-github-actions-postgresql-14kl
+
+VISION:
+
+1. Simple django rest api to login and crud for recipes
+2. React frontend to login and crud recipes
+3. Deploy in AWS with CI/CD
