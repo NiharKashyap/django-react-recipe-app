@@ -1,5 +1,8 @@
 This will guide in deployment
-	https://dev.to/koladev/build-and-deploy-your-django-react-app-authentication-docker-aws-lightsail-github-actions-postgresql-14kl
+
+# https://dev.to/koladev/build-and-deploy-your-django-react-app-authentication-docker-aws-lightsail-github-actions-postgresql-14kl
+## https://lightrains.com/blogs/deploy-aws-ec2-using-github-actions/
+
 
 VISION:
 
